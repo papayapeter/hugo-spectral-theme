@@ -1,0 +1,20 @@
+# Site settings
+baseurl = "https://www.example.com"
+languageCode = "en-us"
+title = "Spectral"
+theme = "hugo-spectral-theme"
+
+# Enter your tracking code to enable Google analytics
+googleAnalytics = ""
+
+[params]
+
+  # You can use Markdown for urls [text](//domain.tld/source)
+  #
+  # All icons using Fontawesom's icon font. Look at fortawesome.github.io/Font-Awesome/icons/
+  # for more icons.
+
+  # To provide more meta data for search engings feel free to add a few informations.
+  # This lines will be inserted as meta tags.
+  name = "Your Name"
+  description = "Your Description"
