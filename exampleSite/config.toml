@@ -1,7 +1,7 @@
 # Site settings
 baseurl = "https://www.example.com"
 languageCode = "en-us"
-title = "Spectral"
+title = "Your Title"
 theme = "hugo-spectral-theme"
 
 # Enter your tracking code to enable Google analytics
