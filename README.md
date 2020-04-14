@@ -1,2 +1,2 @@
-# hugo-sprectral-theme
+# hugo-spectral-theme
 Port from [HTML5UP](https://html5up.net/spectral) Spectral theme with custom adjustments
