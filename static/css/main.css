@@ -3447,6 +3447,16 @@ input, select, textarea {
 		z-index: 10000;
 	}
 
+	@media screen and (max-width: 736px) {
+
+		#header  {
+			height: 2em;
+			line-height: 2em;
+			display: none;
+		}
+
+	}
+
 		#header h1 {
 			-moz-transition: opacity 0.2s ease;
 			-webkit-transition: opacity 0.2s ease;
@@ -3465,14 +3475,6 @@ input, select, textarea {
 				height: inherit;
 				line-height: inherit;
 			}
-
-				@media screen and (max-width: 736px) {
-
-					#header h1 a {
-						font-size: 0.8em;
-					}
-
-				}
 
 		#header nav {
 			height: inherit;
